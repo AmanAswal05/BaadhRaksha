@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rep-kh-1",
+    "districtId": "sector-20",
+    "district": "Sector 20",
+    "locality": "Near Jalvayu Vihar drainage culvert",
+    "reportType": "Waterlogging",
+    "waterLevel": "Knee",
+    "details": "Stormwater accumulated around junction. Low-lying cars experiencing water level up to tires. Drain grille partially blocked by dry leaves.",
+    "reporter": "Amit Patil",
+    "timestamp": "15 mins ago",
+    "evidenceLevel": "High",
+    "lat": 19.0488,
+    "lon": 73.0628
+  },
+  {
+    "id": "rep-kh-2",
+    "districtId": "sector-35",
+    "district": "Sector 35",
+    "locality": "Metro pillar 214 near Owe culvert",
+    "reportType": "Flooded roads",
+    "waterLevel": "Waist",
+    "details": "Water overflowing from adjoining natural ditch. Two-wheelers stalled; traffic redirected to upper service road.",
+    "reporter": "Sunita Deshmukh",
+    "timestamp": "35 mins ago",
+    "evidenceLevel": "High",
+    "lat": 19.0274,
+    "lon": 73.0785
+  },
+  {
+    "id": "rep-kh-3",
+    "districtId": "railway-station",
+    "district": "Kharghar Railway Station",
+    "locality": "Station pedestrian subway underpass",
+    "reportType": "Waterlogging",
+    "waterLevel": "Knee",
+    "details": "Subway pump running continuously; commuters advised to take elevated foot overbridge.",
+    "reporter": "Rajesh Shinde",
+    "timestamp": "50 mins ago",
+    "evidenceLevel": "High",
+    "lat": 19.0436,
+    "lon": 73.0562
+  }
+]

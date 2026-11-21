@@ -1,0 +1,117 @@
+[
+  {
+    "stage": 0,
+    "hour": 0,
+    "timeLabel": "NOW",
+    "title": "Normal Monsoon Watch — Kharghar Node",
+    "titleHi": "सामान्य मान्सून निरीक्षण — खारघर नोड",
+    "simulatedTime": "Saturday, 08:00 IST",
+    "description": "Light showers recorded across Navi Mumbai. Kasadi river and Kopra nullah flowing within safe bed capacities. All stormwater pumping stations on standard standby.",
+    "floodHealth": "WATCH",
+    "healthScore": 32,
+    "overallRiskPercent": 35,
+    "overallRiskCategory": "MODERATE",
+    "affectedDistrictsCount": 2,
+    "rainfallStatus": "Light to Moderate (22mm/24h)",
+    "riverStatus": "Normal Tidal Cycle",
+    "countdownHours": 48,
+    "countdownMinutes": 0,
+    "modifications": {
+      "rainfallMult": 0.5,
+      "riverMult": 0.5,
+      "activeDistricts": [
+        "sector-35",
+        "sector-36"
+      ]
+    }
+  },
+  {
+    "stage": 1,
+    "hour": 6,
+    "timeLabel": "+6 HOURS",
+    "title": "Heavy Rainfall Alert — Catchment Runoff",
+    "titleHi": "मुसळधार पाऊस इशारा — खारघर डोंगर प्रवाह",
+    "simulatedTime": "Saturday, 14:00 IST",
+    "description": "Intense localized cloudburst over Kharghar hills and Taloja catchment (>65mm/3h). Runoff descending toward Sectors 19, 20, 21 and 35.",
+    "floodHealth": "WATCH",
+    "healthScore": 48,
+    "overallRiskPercent": 52,
+    "overallRiskCategory": "MODERATE",
+    "affectedDistrictsCount": 4,
+    "rainfallStatus": "Heavy Rain (75mm/24h)",
+    "riverStatus": "Moderate Runoff Flow",
+    "countdownHours": 42,
+    "countdownMinutes": 0,
+    "modifications": {
+      "rainfallMult": 0.75,
+      "riverMult": 0.75,
+      "activeDistricts": [
+        "sector-19",
+        "sector-20",
+        "sector-35",
+        "sector-36"
+      ]
+    }
+  },
+  {
+    "stage": 2,
+    "hour": 12,
+    "timeLabel": "+12 HOURS",
+    "title": "High Tide Advisory — Kasadi & Kopra Channels",
+    "titleHi": "उधाणाची भरती इशारा — कासाडी नदी व खाडी क्षेत्र",
+    "simulatedTime": "Saturday, 20:00 IST",
+    "description": "High astronomical tide (4.45m) in Panvel Creek coinciding with hill discharge. Low-lying sectors 35, 36, 20 experiencing drainage backwater.",
+    "floodHealth": "WARNING",
+    "healthScore": 68,
+    "overallRiskPercent": 70,
+    "overallRiskCategory": "HIGH",
+    "affectedDistrictsCount": 6,
+    "rainfallStatus": "Intense Downpour (115mm/24h)",
+    "riverStatus": "Tidal Surcharge Rising",
+    "countdownHours": 36,
+    "countdownMinutes": 0,
+    "modifications": {
+      "rainfallMult": 1,
+      "riverMult": 1.05,
+      "activeDistricts": [
+        "sector-19",
+        "sector-20",
+        "sector-35",
+        "sector-36",
+        "railway-station",
+        "taloja-side"
+      ]
+    }
+  },
+  {
+    "stage": 3,
+    "hour": 24,
+    "timeLabel": "+24 HOURS",
+    "title": "Peak Flood Risk Scenario — Low-Lying Inundation",
+    "titleHi": "कमाल पूर जोखीम स्थिती — सखल भागात पाणी साचणे",
+    "simulatedTime": "Sunday, 08:00 IST",
+    "description": "Sustained heavy rainfall and waterlogged culverts. Sector 20, Sector 35, 36 and Taloja side roads experience 0.5m-0.8m surface inundation. Evacuation centers operational.",
+    "floodHealth": "SEVERE",
+    "healthScore": 84,
+    "overallRiskPercent": 86,
+    "overallRiskCategory": "SEVERE",
+    "affectedDistrictsCount": 7,
+    "rainfallStatus": "Very Heavy (160mm/24h)",
+    "riverStatus": "Bank Overflow in Low Pockets",
+    "countdownHours": 24,
+    "countdownMinutes": 0,
+    "modifications": {
+      "rainfallMult": 1.25,
+      "riverMult": 1.3,
+      "activeDistricts": [
+        "sector-19",
+        "sector-20",
+        "sector-35",
+        "sector-36",
+        "railway-station",
+        "sector-7",
+        "taloja-side"
+      ]
+    }
+  }
+]

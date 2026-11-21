@@ -1,0 +1,58 @@
+[
+  {
+    "id": "inf-kh-1",
+    "name": "Kharghar Railway Station Subway Pumping Station",
+    "nameHi": "खारघर रेल्वे स्टेशन भुयारी मार्ग उपसा केंद्र",
+    "category": "Pumping Station",
+    "district": "Kharghar Railway Station",
+    "districtId": "railway-station",
+    "lat": 19.0435,
+    "lon": 73.056,
+    "status": "Operational",
+    "riskCondition": "Waterlogged during high tide + rain concurrency",
+    "details": "High-capacity dewatering pump array managing Sion-Panvel highway subways and commuter forecourt.",
+    "capacityCusecs": 45
+  },
+  {
+    "id": "inf-kh-2",
+    "name": "Kopra Creek Floodgate & Sluice Gate 3",
+    "nameHi": "कोपरा खाडी पूर नियंत्रण झडप ३",
+    "category": "Sluice Gate",
+    "district": "Sector 19",
+    "districtId": "sector-19",
+    "lat": 19.052,
+    "lon": 73.061,
+    "status": "Operational (Tidal flap monitored)",
+    "riskCondition": "Backflow risk when Panvel creek tide exceeds 4.2m",
+    "details": "Automatic non-return flap valves preventing creek backflow into internal stormwater nullahs of sectors 19 and 20.",
+    "capacityCusecs": 120
+  },
+  {
+    "id": "inf-kh-3",
+    "name": "Kasadi River Embankment Bund (Sector 35/36)",
+    "nameHi": "कासाडी नदी संरक्षक बंधारा (सेक्टर ३५/३६)",
+    "category": "Flood Embankment",
+    "district": "Sector 36",
+    "districtId": "sector-36",
+    "lat": 19.022,
+    "lon": 73.082,
+    "status": "Reinforced Riprap",
+    "riskCondition": "Low-lying floodplain edge subject to overflow",
+    "details": "CIDCO earthen and stone bund protecting Swapnapurti housing and Sector 35 low pockets against Kasadi overflow.",
+    "capacityCusecs": 300
+  },
+  {
+    "id": "inf-kh-4",
+    "name": "Central Park Retention Lake Spillway",
+    "nameHi": "सेंट्रल पार्क पाझर तलाव विसर्ग द्वार",
+    "category": "Retention Basin",
+    "district": "Central Park Area",
+    "districtId": "central-park",
+    "lat": 19.0425,
+    "lon": 73.0715,
+    "status": "Normal",
+    "riskCondition": "Safe retention cushion available",
+    "details": "Engineered runoff absorption wetland absorbing hill torrents from Pandavkada hills.",
+    "capacityCusecs": 85
+  }
+]

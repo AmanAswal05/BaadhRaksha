@@ -1,0 +1,5952 @@
+[
+  {
+    "id": "grid-1",
+    "center": [
+      19.016,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0446
+      ],
+      [
+        19.0174,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-2",
+    "center": [
+      19.016,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0476
+      ],
+      [
+        19.0174,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-3",
+    "center": [
+      19.016,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0506
+      ],
+      [
+        19.0174,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-4",
+    "center": [
+      19.016,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0536
+      ],
+      [
+        19.0174,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-5",
+    "center": [
+      19.016,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0566
+      ],
+      [
+        19.0174,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-6",
+    "center": [
+      19.016,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0596
+      ],
+      [
+        19.0174,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-7",
+    "center": [
+      19.016,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0626
+      ],
+      [
+        19.0174,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 55,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-8",
+    "center": [
+      19.016,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0656
+      ],
+      [
+        19.0174,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 58,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-9",
+    "center": [
+      19.016,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0686
+      ],
+      [
+        19.0174,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 61,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-10",
+    "center": [
+      19.016,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0716
+      ],
+      [
+        19.0174,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 64,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-11",
+    "center": [
+      19.016,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0746
+      ],
+      [
+        19.0174,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-12",
+    "center": [
+      19.016,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0776
+      ],
+      [
+        19.0174,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-13",
+    "center": [
+      19.016,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0806
+      ],
+      [
+        19.0174,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-14",
+    "center": [
+      19.016,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0146,
+        73.0836
+      ],
+      [
+        19.0174,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-15",
+    "center": [
+      19.019,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0446
+      ],
+      [
+        19.0204,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-16",
+    "center": [
+      19.019,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0476
+      ],
+      [
+        19.0204,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-17",
+    "center": [
+      19.019,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0506
+      ],
+      [
+        19.0204,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-18",
+    "center": [
+      19.019,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0536
+      ],
+      [
+        19.0204,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-19",
+    "center": [
+      19.019,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0566
+      ],
+      [
+        19.0204,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-20",
+    "center": [
+      19.019,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0596
+      ],
+      [
+        19.0204,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-21",
+    "center": [
+      19.019,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0626
+      ],
+      [
+        19.0204,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 54,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-22",
+    "center": [
+      19.019,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0656
+      ],
+      [
+        19.0204,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 57,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-23",
+    "center": [
+      19.019,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0686
+      ],
+      [
+        19.0204,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 61,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-24",
+    "center": [
+      19.019,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0716
+      ],
+      [
+        19.0204,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 65,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-25",
+    "center": [
+      19.019,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0746
+      ],
+      [
+        19.0204,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-26",
+    "center": [
+      19.019,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0776
+      ],
+      [
+        19.0204,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-27",
+    "center": [
+      19.019,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0806
+      ],
+      [
+        19.0204,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-28",
+    "center": [
+      19.019,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0176,
+        73.0836
+      ],
+      [
+        19.0204,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-29",
+    "center": [
+      19.022,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0446
+      ],
+      [
+        19.0234,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-30",
+    "center": [
+      19.022,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0476
+      ],
+      [
+        19.0234,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-31",
+    "center": [
+      19.022,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0506
+      ],
+      [
+        19.0234,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-32",
+    "center": [
+      19.022,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0536
+      ],
+      [
+        19.0234,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-33",
+    "center": [
+      19.022,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0566
+      ],
+      [
+        19.0234,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-34",
+    "center": [
+      19.022,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0596
+      ],
+      [
+        19.0234,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-35",
+    "center": [
+      19.022,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0626
+      ],
+      [
+        19.0234,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-36",
+    "center": [
+      19.022,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0656
+      ],
+      [
+        19.0234,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 56,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-37",
+    "center": [
+      19.022,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0686
+      ],
+      [
+        19.0234,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 60,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-38",
+    "center": [
+      19.022,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0716
+      ],
+      [
+        19.0234,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 65,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-39",
+    "center": [
+      19.022,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0746
+      ],
+      [
+        19.0234,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-40",
+    "center": [
+      19.022,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0776
+      ],
+      [
+        19.0234,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-41",
+    "center": [
+      19.022,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0806
+      ],
+      [
+        19.0234,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 79,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-42",
+    "center": [
+      19.022,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0206,
+        73.0836
+      ],
+      [
+        19.0234,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-43",
+    "center": [
+      19.025,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0446
+      ],
+      [
+        19.0264,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-44",
+    "center": [
+      19.025,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0476
+      ],
+      [
+        19.0264,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-45",
+    "center": [
+      19.025,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0506
+      ],
+      [
+        19.0264,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-46",
+    "center": [
+      19.025,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0536
+      ],
+      [
+        19.0264,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-47",
+    "center": [
+      19.025,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0566
+      ],
+      [
+        19.0264,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-48",
+    "center": [
+      19.025,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0596
+      ],
+      [
+        19.0264,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-49",
+    "center": [
+      19.025,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0626
+      ],
+      [
+        19.0264,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-50",
+    "center": [
+      19.025,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0656
+      ],
+      [
+        19.0264,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 54,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-51",
+    "center": [
+      19.025,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0686
+      ],
+      [
+        19.0264,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 59,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-52",
+    "center": [
+      19.025,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0716
+      ],
+      [
+        19.0264,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 65,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-53",
+    "center": [
+      19.025,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0746
+      ],
+      [
+        19.0264,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-54",
+    "center": [
+      19.025,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0776
+      ],
+      [
+        19.0264,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-55",
+    "center": [
+      19.025,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0806
+      ],
+      [
+        19.0264,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-56",
+    "center": [
+      19.025,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0236,
+        73.0836
+      ],
+      [
+        19.0264,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "sector-36",
+    "nearestSectorName": "Sector 36",
+    "nearestSectorNameHi": "सेक्टर 36",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Adjacent to Taloja river floodplain and tidal drainage basin with restricted outflow during high tide.",
+    "recommendedAction": "Very high modeled risk. Move valuables to higher floors; do not cross flooded culverts."
+  },
+  {
+    "id": "grid-57",
+    "center": [
+      19.028,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0446
+      ],
+      [
+        19.0294,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-58",
+    "center": [
+      19.028,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0476
+      ],
+      [
+        19.0294,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-59",
+    "center": [
+      19.028,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0506
+      ],
+      [
+        19.0294,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-60",
+    "center": [
+      19.028,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0536
+      ],
+      [
+        19.0294,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-61",
+    "center": [
+      19.028,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0566
+      ],
+      [
+        19.0294,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-62",
+    "center": [
+      19.028,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0596
+      ],
+      [
+        19.0294,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-63",
+    "center": [
+      19.028,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0626
+      ],
+      [
+        19.0294,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-64",
+    "center": [
+      19.028,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0656
+      ],
+      [
+        19.0294,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-65",
+    "center": [
+      19.028,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0686
+      ],
+      [
+        19.0294,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 56,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-66",
+    "center": [
+      19.028,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0716
+      ],
+      [
+        19.0294,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 62,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-67",
+    "center": [
+      19.028,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0746
+      ],
+      [
+        19.0294,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-68",
+    "center": [
+      19.028,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0776
+      ],
+      [
+        19.0294,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-69",
+    "center": [
+      19.028,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0806
+      ],
+      [
+        19.0294,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-70",
+    "center": [
+      19.028,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0266,
+        73.0836
+      ],
+      [
+        19.0294,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-71",
+    "center": [
+      19.031,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0446
+      ],
+      [
+        19.0324,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-72",
+    "center": [
+      19.031,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0476
+      ],
+      [
+        19.0324,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-73",
+    "center": [
+      19.031,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0506
+      ],
+      [
+        19.0324,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-74",
+    "center": [
+      19.031,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0536
+      ],
+      [
+        19.0324,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-75",
+    "center": [
+      19.031,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0566
+      ],
+      [
+        19.0324,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 43,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-76",
+    "center": [
+      19.031,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0596
+      ],
+      [
+        19.0324,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-77",
+    "center": [
+      19.031,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0626
+      ],
+      [
+        19.0324,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-78",
+    "center": [
+      19.031,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0656
+      ],
+      [
+        19.0324,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-79",
+    "center": [
+      19.031,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0686
+      ],
+      [
+        19.0324,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-80",
+    "center": [
+      19.031,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0716
+      ],
+      [
+        19.0324,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 57,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-81",
+    "center": [
+      19.031,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0746
+      ],
+      [
+        19.0324,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-82",
+    "center": [
+      19.031,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0776
+      ],
+      [
+        19.0324,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-83",
+    "center": [
+      19.031,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0806
+      ],
+      [
+        19.0324,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-84",
+    "center": [
+      19.031,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0296,
+        73.0836
+      ],
+      [
+        19.0324,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 79,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-85",
+    "center": [
+      19.034,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0446
+      ],
+      [
+        19.0354,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-86",
+    "center": [
+      19.034,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0476
+      ],
+      [
+        19.0354,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-87",
+    "center": [
+      19.034,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0506
+      ],
+      [
+        19.0354,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-88",
+    "center": [
+      19.034,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0536
+      ],
+      [
+        19.0354,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 43,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-89",
+    "center": [
+      19.034,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0566
+      ],
+      [
+        19.0354,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-90",
+    "center": [
+      19.034,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0596
+      ],
+      [
+        19.0354,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-91",
+    "center": [
+      19.034,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0626
+      ],
+      [
+        19.0354,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 43,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-92",
+    "center": [
+      19.034,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0656
+      ],
+      [
+        19.0354,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-93",
+    "center": [
+      19.034,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0686
+      ],
+      [
+        19.0354,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-94",
+    "center": [
+      19.034,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0716
+      ],
+      [
+        19.0354,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-95",
+    "center": [
+      19.034,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0746
+      ],
+      [
+        19.0354,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-35",
+    "nearestSectorName": "Sector 35",
+    "nearestSectorNameHi": "सेक्टर 35",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying pocket near Taloja river / Kasadi backwater influence and Owe hill runoff.",
+    "recommendedAction": "High risk zone. Avoid low-lying basements, keep emergency kit ready, follow evacuation advisories."
+  },
+  {
+    "id": "grid-96",
+    "center": [
+      19.034,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0776
+      ],
+      [
+        19.0354,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-97",
+    "center": [
+      19.034,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0806
+      ],
+      [
+        19.0354,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-98",
+    "center": [
+      19.034,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0326,
+        73.0836
+      ],
+      [
+        19.0354,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 78,
+    "riskCategory": "VERY HIGH",
+    "color": "#ef4444",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-99",
+    "center": [
+      19.037,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0446
+      ],
+      [
+        19.0384,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-100",
+    "center": [
+      19.037,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0476
+      ],
+      [
+        19.0384,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-101",
+    "center": [
+      19.037,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0506
+      ],
+      [
+        19.0384,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-7",
+    "nearestSectorName": "Sector 7",
+    "nearestSectorNameHi": "सेक्टर 7",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Urban drainage corridor adjacent to Sion-Panvel Highway; prone to moderate gutter overflow during intense monsoon cloudbursts.",
+    "recommendedAction": "Exercise caution at subway underpasses and monitor municipal drainage updates."
+  },
+  {
+    "id": "grid-102",
+    "center": [
+      19.037,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0536
+      ],
+      [
+        19.0384,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-10",
+    "nearestSectorName": "Sector 10",
+    "nearestSectorNameHi": "सेक्टर 10",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated residential area with moderate natural slope toward central stormwater culverts.",
+    "recommendedAction": "Normal precautions. Keep local building stormwater drains clear of debris."
+  },
+  {
+    "id": "grid-103",
+    "center": [
+      19.037,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0566
+      ],
+      [
+        19.0384,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-10",
+    "nearestSectorName": "Sector 10",
+    "nearestSectorNameHi": "सेक्टर 10",
+    "riskScore": 39,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated residential area with moderate natural slope toward central stormwater culverts.",
+    "recommendedAction": "Normal precautions. Keep local building stormwater drains clear of debris."
+  },
+  {
+    "id": "grid-104",
+    "center": [
+      19.037,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0596
+      ],
+      [
+        19.0384,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-10",
+    "nearestSectorName": "Sector 10",
+    "nearestSectorNameHi": "सेक्टर 10",
+    "riskScore": 40,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated residential area with moderate natural slope toward central stormwater culverts.",
+    "recommendedAction": "Normal precautions. Keep local building stormwater drains clear of debris."
+  },
+  {
+    "id": "grid-105",
+    "center": [
+      19.037,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0626
+      ],
+      [
+        19.0384,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-10",
+    "nearestSectorName": "Sector 10",
+    "nearestSectorNameHi": "सेक्टर 10",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated residential area with moderate natural slope toward central stormwater culverts.",
+    "recommendedAction": "Normal precautions. Keep local building stormwater drains clear of debris."
+  },
+  {
+    "id": "grid-106",
+    "center": [
+      19.037,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0656
+      ],
+      [
+        19.0384,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-107",
+    "center": [
+      19.037,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0686
+      ],
+      [
+        19.0384,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-108",
+    "center": [
+      19.037,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0716
+      ],
+      [
+        19.0384,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 43,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-109",
+    "center": [
+      19.037,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0746
+      ],
+      [
+        19.0384,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-110",
+    "center": [
+      19.037,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0776
+      ],
+      [
+        19.0384,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-111",
+    "center": [
+      19.037,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0806
+      ],
+      [
+        19.0384,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 56,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-112",
+    "center": [
+      19.037,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0356,
+        73.0836
+      ],
+      [
+        19.0384,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 60,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-113",
+    "center": [
+      19.04,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0446
+      ],
+      [
+        19.0414,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-114",
+    "center": [
+      19.04,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0476
+      ],
+      [
+        19.0414,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-115",
+    "center": [
+      19.04,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0506
+      ],
+      [
+        19.0414,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-116",
+    "center": [
+      19.04,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0536
+      ],
+      [
+        19.0414,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-10",
+    "nearestSectorName": "Sector 10",
+    "nearestSectorNameHi": "सेक्टर 10",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated residential area with moderate natural slope toward central stormwater culverts.",
+    "recommendedAction": "Normal precautions. Keep local building stormwater drains clear of debris."
+  },
+  {
+    "id": "grid-117",
+    "center": [
+      19.04,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0566
+      ],
+      [
+        19.0414,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-10",
+    "nearestSectorName": "Sector 10",
+    "nearestSectorNameHi": "सेक्टर 10",
+    "riskScore": 39,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated residential area with moderate natural slope toward central stormwater culverts.",
+    "recommendedAction": "Normal precautions. Keep local building stormwater drains clear of debris."
+  },
+  {
+    "id": "grid-118",
+    "center": [
+      19.04,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0596
+      ],
+      [
+        19.0414,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-12",
+    "nearestSectorName": "Sector 12",
+    "nearestSectorNameHi": "सेक्टर 12",
+    "riskScore": 40,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Moderate residential gradient with planned CIDCO box drains leading to Kopra creek channel.",
+    "recommendedAction": "Stay alert during concurrent high tide and heavy downpours."
+  },
+  {
+    "id": "grid-119",
+    "center": [
+      19.04,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0626
+      ],
+      [
+        19.0414,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 41,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-120",
+    "center": [
+      19.04,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0656
+      ],
+      [
+        19.0414,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 40,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-121",
+    "center": [
+      19.04,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0686
+      ],
+      [
+        19.0414,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 37,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-122",
+    "center": [
+      19.04,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0716
+      ],
+      [
+        19.0414,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 35,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-123",
+    "center": [
+      19.04,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0746
+      ],
+      [
+        19.0414,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 38,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-124",
+    "center": [
+      19.04,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0776
+      ],
+      [
+        19.0414,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 43,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-125",
+    "center": [
+      19.04,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0806
+      ],
+      [
+        19.0414,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-126",
+    "center": [
+      19.04,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0386,
+        73.0836
+      ],
+      [
+        19.0414,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "taloja-side",
+    "nearestSectorName": "Taloja-side Surroundings",
+    "nearestSectorNameHi": "तळोजा परिसर",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying Kasadi river bank and industrial drainage corridor subject to severe tidal backflow during high tides.",
+    "recommendedAction": "Critical vigilance. Avoid transit near riverbank; stay tuned to Panvel Municipal Corporation (PMC) alerts."
+  },
+  {
+    "id": "grid-127",
+    "center": [
+      19.043,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0446
+      ],
+      [
+        19.0444,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-128",
+    "center": [
+      19.043,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0476
+      ],
+      [
+        19.0444,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-129",
+    "center": [
+      19.043,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0506
+      ],
+      [
+        19.0444,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-130",
+    "center": [
+      19.043,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0536
+      ],
+      [
+        19.0444,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-131",
+    "center": [
+      19.043,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0566
+      ],
+      [
+        19.0444,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-12",
+    "nearestSectorName": "Sector 12",
+    "nearestSectorNameHi": "सेक्टर 12",
+    "riskScore": 47,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Moderate residential gradient with planned CIDCO box drains leading to Kopra creek channel.",
+    "recommendedAction": "Stay alert during concurrent high tide and heavy downpours."
+  },
+  {
+    "id": "grid-132",
+    "center": [
+      19.043,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0596
+      ],
+      [
+        19.0444,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-12",
+    "nearestSectorName": "Sector 12",
+    "nearestSectorNameHi": "सेक्टर 12",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Moderate residential gradient with planned CIDCO box drains leading to Kopra creek channel.",
+    "recommendedAction": "Stay alert during concurrent high tide and heavy downpours."
+  },
+  {
+    "id": "grid-133",
+    "center": [
+      19.043,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0626
+      ],
+      [
+        19.0444,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 39,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-134",
+    "center": [
+      19.043,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0656
+      ],
+      [
+        19.0444,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 39,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-135",
+    "center": [
+      19.043,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0686
+      ],
+      [
+        19.0444,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 34,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-136",
+    "center": [
+      19.043,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0716
+      ],
+      [
+        19.0444,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "central-park",
+    "nearestSectorName": "Central Park Area",
+    "nearestSectorNameHi": "सेंट्रल पार्क क्षेत्र",
+    "riskScore": 28,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Large planned open retention landscape with natural percolation grounds and golf course water bodies.",
+    "recommendedAction": "Lower modeled risk. General caution around decorative water retention ponds."
+  },
+  {
+    "id": "grid-137",
+    "center": [
+      19.043,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0746
+      ],
+      [
+        19.0444,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 33,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-138",
+    "center": [
+      19.043,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0776
+      ],
+      [
+        19.0444,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 39,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-139",
+    "center": [
+      19.043,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0806
+      ],
+      [
+        19.0444,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-140",
+    "center": [
+      19.043,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0416,
+        73.0836
+      ],
+      [
+        19.0444,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-141",
+    "center": [
+      19.046,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0446
+      ],
+      [
+        19.0474,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-142",
+    "center": [
+      19.046,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0476
+      ],
+      [
+        19.0474,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-143",
+    "center": [
+      19.046,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0506
+      ],
+      [
+        19.0474,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-144",
+    "center": [
+      19.046,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0536
+      ],
+      [
+        19.0474,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-145",
+    "center": [
+      19.046,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0566
+      ],
+      [
+        19.0474,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-15",
+    "nearestSectorName": "Sector 15",
+    "nearestSectorNameHi": "सेक्टर 15",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Intermediate catchment zone between railway line and residential pocket; junction water accumulation possible during cloudbursts.",
+    "recommendedAction": "Avoid parking vehicles in basement or low stilt lots during heavy rainfall warnings."
+  },
+  {
+    "id": "grid-146",
+    "center": [
+      19.046,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0596
+      ],
+      [
+        19.0474,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-15",
+    "nearestSectorName": "Sector 15",
+    "nearestSectorNameHi": "सेक्टर 15",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Intermediate catchment zone between railway line and residential pocket; junction water accumulation possible during cloudbursts.",
+    "recommendedAction": "Avoid parking vehicles in basement or low stilt lots during heavy rainfall warnings."
+  },
+  {
+    "id": "grid-147",
+    "center": [
+      19.046,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0626
+      ],
+      [
+        19.0474,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-148",
+    "center": [
+      19.046,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0656
+      ],
+      [
+        19.0474,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "utsav-chowk",
+    "nearestSectorName": "Utsav Chowk",
+    "nearestSectorNameHi": "उत्सव चौक",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Major elevated traffic circle with radial stormwater drainage into arterial channels.",
+    "recommendedAction": "Drive at reduced speed; watch for slow-moving traffic around roundabout."
+  },
+  {
+    "id": "grid-149",
+    "center": [
+      19.046,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0686
+      ],
+      [
+        19.0474,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 37,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-150",
+    "center": [
+      19.046,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0716
+      ],
+      [
+        19.0474,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 28,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-151",
+    "center": [
+      19.046,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0746
+      ],
+      [
+        19.0474,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 31,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-152",
+    "center": [
+      19.046,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0776
+      ],
+      [
+        19.0474,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 37,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-153",
+    "center": [
+      19.046,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0806
+      ],
+      [
+        19.0474,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-154",
+    "center": [
+      19.046,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0446,
+        73.0836
+      ],
+      [
+        19.0474,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-155",
+    "center": [
+      19.049,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0446
+      ],
+      [
+        19.0504,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-156",
+    "center": [
+      19.049,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0476
+      ],
+      [
+        19.0504,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-157",
+    "center": [
+      19.049,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0506
+      ],
+      [
+        19.0504,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-158",
+    "center": [
+      19.049,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0536
+      ],
+      [
+        19.0504,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-159",
+    "center": [
+      19.049,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0566
+      ],
+      [
+        19.0504,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-15",
+    "nearestSectorName": "Sector 15",
+    "nearestSectorNameHi": "सेक्टर 15",
+    "riskScore": 54,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Intermediate catchment zone between railway line and residential pocket; junction water accumulation possible during cloudbursts.",
+    "recommendedAction": "Avoid parking vehicles in basement or low stilt lots during heavy rainfall warnings."
+  },
+  {
+    "id": "grid-160",
+    "center": [
+      19.049,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0596
+      ],
+      [
+        19.0504,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-20",
+    "nearestSectorName": "Sector 20",
+    "nearestSectorNameHi": "सेक्टर 20",
+    "riskScore": 58,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low elevation zone near drainage culvert junction with historical waterlogging history.",
+    "recommendedAction": "Avoid waterlogged roads and monitor official alerts. Elevate sensitive equipment."
+  },
+  {
+    "id": "grid-161",
+    "center": [
+      19.049,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0626
+      ],
+      [
+        19.0504,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 57,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-162",
+    "center": [
+      19.049,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0656
+      ],
+      [
+        19.0504,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-163",
+    "center": [
+      19.049,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0686
+      ],
+      [
+        19.0504,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-164",
+    "center": [
+      19.049,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0716
+      ],
+      [
+        19.0504,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 38,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-165",
+    "center": [
+      19.049,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0746
+      ],
+      [
+        19.0504,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 37,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-166",
+    "center": [
+      19.049,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0776
+      ],
+      [
+        19.0504,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 39,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-167",
+    "center": [
+      19.049,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0806
+      ],
+      [
+        19.0504,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-168",
+    "center": [
+      19.049,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0476,
+        73.0836
+      ],
+      [
+        19.0504,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-169",
+    "center": [
+      19.052,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0446
+      ],
+      [
+        19.0534,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-170",
+    "center": [
+      19.052,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0476
+      ],
+      [
+        19.0534,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-171",
+    "center": [
+      19.052,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0506
+      ],
+      [
+        19.0534,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-172",
+    "center": [
+      19.052,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0536
+      ],
+      [
+        19.0534,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-173",
+    "center": [
+      19.052,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0566
+      ],
+      [
+        19.0534,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 55,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-174",
+    "center": [
+      19.052,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0596
+      ],
+      [
+        19.0534,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 58,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-175",
+    "center": [
+      19.052,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0626
+      ],
+      [
+        19.0534,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 58,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-176",
+    "center": [
+      19.052,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0656
+      ],
+      [
+        19.0534,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-177",
+    "center": [
+      19.052,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0686
+      ],
+      [
+        19.0534,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 48,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-178",
+    "center": [
+      19.052,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0716
+      ],
+      [
+        19.0534,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-179",
+    "center": [
+      19.052,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0746
+      ],
+      [
+        19.0534,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-180",
+    "center": [
+      19.052,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0776
+      ],
+      [
+        19.0534,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 42,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-181",
+    "center": [
+      19.052,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0806
+      ],
+      [
+        19.0534,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 43,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-182",
+    "center": [
+      19.052,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0506,
+        73.0836
+      ],
+      [
+        19.0534,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-183",
+    "center": [
+      19.055,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0446
+      ],
+      [
+        19.0564,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-184",
+    "center": [
+      19.055,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0476
+      ],
+      [
+        19.0564,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-185",
+    "center": [
+      19.055,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0506
+      ],
+      [
+        19.0564,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-186",
+    "center": [
+      19.055,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0536
+      ],
+      [
+        19.0564,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-187",
+    "center": [
+      19.055,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0566
+      ],
+      [
+        19.0564,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 54,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-188",
+    "center": [
+      19.055,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0596
+      ],
+      [
+        19.0564,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 55,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-189",
+    "center": [
+      19.055,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0626
+      ],
+      [
+        19.0564,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 55,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-190",
+    "center": [
+      19.055,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0656
+      ],
+      [
+        19.0564,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-191",
+    "center": [
+      19.055,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0686
+      ],
+      [
+        19.0564,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 49,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-192",
+    "center": [
+      19.055,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0716
+      ],
+      [
+        19.0564,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-193",
+    "center": [
+      19.055,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0746
+      ],
+      [
+        19.0564,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-194",
+    "center": [
+      19.055,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0776
+      ],
+      [
+        19.0564,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 44,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-195",
+    "center": [
+      19.055,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0806
+      ],
+      [
+        19.0564,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 45,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-196",
+    "center": [
+      19.055,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0536,
+        73.0836
+      ],
+      [
+        19.0564,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 46,
+    "riskCategory": "MODERATE",
+    "color": "#eab308",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-197",
+    "center": [
+      19.058,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0446
+      ],
+      [
+        19.0594,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "railway-station",
+    "nearestSectorName": "Kharghar Railway Station",
+    "nearestSectorNameHi": "खारघर रेलवे स्टेशन",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Critical transport hub; pedestrian subway and forecourt prone to stormwater pooling during concurrent high tide.",
+    "recommendedAction": "Use foot overbridges instead of submerged subways. Check suburban train updates."
+  },
+  {
+    "id": "grid-198",
+    "center": [
+      19.058,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0476
+      ],
+      [
+        19.0594,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-199",
+    "center": [
+      19.058,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0506
+      ],
+      [
+        19.0594,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-200",
+    "center": [
+      19.058,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0536
+      ],
+      [
+        19.0594,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-201",
+    "center": [
+      19.058,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0566
+      ],
+      [
+        19.0594,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-202",
+    "center": [
+      19.058,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0596
+      ],
+      [
+        19.0594,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-203",
+    "center": [
+      19.058,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0626
+      ],
+      [
+        19.0594,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 53,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-204",
+    "center": [
+      19.058,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0656
+      ],
+      [
+        19.0594,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-205",
+    "center": [
+      19.058,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0686
+      ],
+      [
+        19.0594,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-206",
+    "center": [
+      19.058,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0716
+      ],
+      [
+        19.0594,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-207",
+    "center": [
+      19.058,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0746
+      ],
+      [
+        19.0594,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-208",
+    "center": [
+      19.058,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0776
+      ],
+      [
+        19.0594,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-209",
+    "center": [
+      19.058,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0806
+      ],
+      [
+        19.0594,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-210",
+    "center": [
+      19.058,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0566,
+        73.0836
+      ],
+      [
+        19.0594,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-211",
+    "center": [
+      19.061,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0446
+      ],
+      [
+        19.0624,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-212",
+    "center": [
+      19.061,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0476
+      ],
+      [
+        19.0624,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-213",
+    "center": [
+      19.061,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0506
+      ],
+      [
+        19.0624,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-214",
+    "center": [
+      19.061,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0536
+      ],
+      [
+        19.0624,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-215",
+    "center": [
+      19.061,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0566
+      ],
+      [
+        19.0624,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-216",
+    "center": [
+      19.061,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0596
+      ],
+      [
+        19.0624,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 52,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-217",
+    "center": [
+      19.061,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0626
+      ],
+      [
+        19.0624,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-218",
+    "center": [
+      19.061,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0656
+      ],
+      [
+        19.0624,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-219",
+    "center": [
+      19.061,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0686
+      ],
+      [
+        19.0624,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-220",
+    "center": [
+      19.061,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0716
+      ],
+      [
+        19.0624,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-221",
+    "center": [
+      19.061,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0746
+      ],
+      [
+        19.0624,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-222",
+    "center": [
+      19.061,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0776
+      ],
+      [
+        19.0624,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-223",
+    "center": [
+      19.061,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0806
+      ],
+      [
+        19.0624,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-224",
+    "center": [
+      19.061,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0596,
+        73.0836
+      ],
+      [
+        19.0624,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-225",
+    "center": [
+      19.064,
+      73.046
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0446
+      ],
+      [
+        19.0654,
+        73.0474
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-226",
+    "center": [
+      19.064,
+      73.049
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0476
+      ],
+      [
+        19.0654,
+        73.0504
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-227",
+    "center": [
+      19.064,
+      73.052
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0506
+      ],
+      [
+        19.0654,
+        73.0534
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-228",
+    "center": [
+      19.064,
+      73.055
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0536
+      ],
+      [
+        19.0654,
+        73.0564
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-229",
+    "center": [
+      19.064,
+      73.058
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0566
+      ],
+      [
+        19.0654,
+        73.0594
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-230",
+    "center": [
+      19.064,
+      73.061
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0596
+      ],
+      [
+        19.0654,
+        73.0624
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-231",
+    "center": [
+      19.064,
+      73.064
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0626
+      ],
+      [
+        19.0654,
+        73.0654
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 51,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-232",
+    "center": [
+      19.064,
+      73.067
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0656
+      ],
+      [
+        19.0654,
+        73.0684
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 50,
+    "riskCategory": "HIGH",
+    "color": "#f97316",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-233",
+    "center": [
+      19.064,
+      73.07
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0686
+      ],
+      [
+        19.0654,
+        73.0714
+      ]
+    ],
+    "nearestSectorId": "sector-19",
+    "nearestSectorName": "Sector 19",
+    "nearestSectorNameHi": "सेक्टर 19",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Low-lying proximity to Kopra bridge nullah with natural runoff concentration descending from Kharghar hills.",
+    "recommendedAction": "High caution. Avoid waterlogged internal roads and follow municipal advisory."
+  },
+  {
+    "id": "grid-234",
+    "center": [
+      19.064,
+      73.073
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0716
+      ],
+      [
+        19.0654,
+        73.0744
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-235",
+    "center": [
+      19.064,
+      73.076
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0746
+      ],
+      [
+        19.0654,
+        73.0774
+      ]
+    ],
+    "nearestSectorId": "sector-21",
+    "nearestSectorName": "Sector 21",
+    "nearestSectorNameHi": "सेक्टर 21",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Convergence of natural hillside runoff towards arterial road nullah.",
+    "recommendedAction": "Drive with caution along main access avenues. Keep away from uncovered drainage channels."
+  },
+  {
+    "id": "grid-236",
+    "center": [
+      19.064,
+      73.079
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0776
+      ],
+      [
+        19.0654,
+        73.0804
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-237",
+    "center": [
+      19.064,
+      73.082
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0806
+      ],
+      [
+        19.0654,
+        73.0834
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  },
+  {
+    "id": "grid-238",
+    "center": [
+      19.064,
+      73.085
+    ],
+    "bounds": [
+      [
+        19.0626,
+        73.0836
+      ],
+      [
+        19.0654,
+        73.0864
+      ]
+    ],
+    "nearestSectorId": "iskcon-kharghar",
+    "nearestSectorName": "ISKCON Kharghar",
+    "nearestSectorNameHi": "इस्कॉन खारघर",
+    "riskScore": 22,
+    "riskCategory": "LOW",
+    "color": "#10b981",
+    "factors": "Elevated foothill terrain overlooking Central Park with high natural drainage gradient.",
+    "recommendedAction": "Lower modeled risk. Normal monsoon precautions."
+  }
+]

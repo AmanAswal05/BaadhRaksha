@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vol-kh-1",
+    "name": "Kharghar Citizen Quick Response Team",
+    "districtId": "sector-20",
+    "district": "Sector 20",
+    "lat": 19.048,
+    "lon": 73.063,
+    "skills": [
+      "First Aid",
+      "Water Rescue",
+      "Community Kitchen"
+    ],
+    "phone": "+91 98201 12345",
+    "available": true
+  },
+  {
+    "id": "vol-kh-2",
+    "name": "Panvel Civil Defense Volunteers - Kharghar Wing",
+    "districtId": "sector-12",
+    "district": "Sector 12",
+    "lat": 19.041,
+    "lon": 73.0592,
+    "skills": [
+      "Debris Clearing",
+      "Pumping Assistance",
+      "Shelter Coordination"
+    ],
+    "phone": "+91 98202 54321",
+    "available": true
+  }
+]

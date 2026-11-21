@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Kasadi (Kasardi) River",
+    "nameHi": "कासाडी नदी (तळोजा)",
+    "type": "River / Tidal Creek",
+    "riskCategory": "HIGH",
+    "coordinates": [
+      [
+        19.042,
+        73.092
+      ],
+      [
+        19.036,
+        73.088
+      ],
+      [
+        19.028,
+        73.084
+      ],
+      [
+        19.021,
+        73.08
+      ],
+      [
+        19.014,
+        73.076
+      ],
+      [
+        19.01,
+        73.07
+      ]
+    ],
+    "status": "Active Tidal Drainage Corridor",
+    "description": "Primary drainage arterial for Taloja-Kharghar plain heading toward Panvel creek."
+  },
+  {
+    "name": "Kopra Nullah & Creek Channel",
+    "nameHi": "कोपरा नाला व खाडी प्रवाह",
+    "type": "Natural Drainage Channel",
+    "riskCategory": "MODERATE",
+    "coordinates": [
+      [
+        19.055,
+        73.067
+      ],
+      [
+        19.05,
+        73.063
+      ],
+      [
+        19.046,
+        73.058
+      ],
+      [
+        19.042,
+        73.054
+      ],
+      [
+        19.037,
+        73.051
+      ]
+    ],
+    "status": "Urban Stormwater Corridor",
+    "description": "Major natural nullah channeling runoff from Kharghar hills to coastal mudflats."
+  },
+  {
+    "name": "Central Park Retention Lake & Stream",
+    "nameHi": "सेंट्रल पार्क तलाव व जलधारा",
+    "type": "Retention Waterbody",
+    "riskCategory": "LOW",
+    "coordinates": [
+      [
+        19.046,
+        73.074
+      ],
+      [
+        19.043,
+        73.072
+      ],
+      [
+        19.04,
+        73.07
+      ]
+    ],
+    "status": "Managed Retention Water Body",
+    "description": "Planned recreational retention pond and runoff buffer zone in Sector 23/24."
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "sh-kh-1",
+    "name": "Ramsheth Thakur Public School Elevated Shelter",
+    "nameHi": "रामशेठ ठाकूर पब्लिक स्कूल पूर निवारा केंद्र",
+    "districtId": "sector-19",
+    "district": "Sector 19",
+    "capacity": 650,
+    "occupancy": 45,
+    "lat": 19.0512,
+    "lon": 73.0645,
+    "address": "Plot No. 1, Sector 19, Kharghar, Navi Mumbai 410210",
+    "accessibility": "Elevated plinth campus, concrete 3-storey building with ramp and high-clearance access",
+    "groundFloorAccess": true,
+    "facilities": [
+      "First Aid & Medical Station",
+      "Potable Water Supply",
+      "Community Kitchen",
+      "Emergency Power Generator"
+    ],
+    "safetyRating": "High Ground (Safe from street waterlogging)",
+    "phone": "+91 22 2774 4400"
+  },
+  {
+    "id": "sh-kh-2",
+    "name": "CIDCO Community Centre Sector 12",
+    "nameHi": "सिडको समुदाय केंद्र सेक्टर १२",
+    "districtId": "sector-12",
+    "district": "Sector 12",
+    "capacity": 450,
+    "occupancy": 20,
+    "lat": 19.0418,
+    "lon": 73.0598,
+    "address": "Sector 12, Near Shilp Chowk, Kharghar 410210",
+    "accessibility": "Elevated hall structure, dry road approach from central arterial avenue",
+    "groundFloorAccess": true,
+    "facilities": [
+      "Emergency Food Depot",
+      "Clean Drinking Water Tankers",
+      "Mobile Charging Desk",
+      "Rest Bunks"
+    ],
+    "safetyRating": "Designated Civic Relief Center",
+    "phone": "+91 22 2774 5500"
+  },
+  {
+    "id": "sh-kh-3",
+    "name": "Bharati Vidyapeeth College of Engineering Auditorium",
+    "nameHi": "भारती विद्यापीठ अभियांत्रिकी महाविद्यालय सभागृह",
+    "districtId": "sector-7",
+    "district": "Sector 7",
+    "capacity": 800,
+    "occupancy": 15,
+    "lat": 19.0345,
+    "lon": 73.0565,
+    "address": "Sector 7, Opp. Kharghar Railway Station, Kharghar 410210",
+    "accessibility": "Large elevated campus, multi-level auditorium well above highway storm level",
+    "groundFloorAccess": true,
+    "facilities": [
+      "Emergency First Aid Ward",
+      "Indoor Stays",
+      "Ration Supply",
+      "Sanitation Blocks"
+    ],
+    "safetyRating": "High (Multi-level institutional structure)",
+    "phone": "+91 22 2757 2140"
+  },
+  {
+    "id": "sh-kh-4",
+    "name": "Swapnapurti CIDCO Community Hall",
+    "nameHi": "स्वप्नापूर्ती सिडको समुदाय भवन",
+    "districtId": "sector-36",
+    "district": "Sector 36",
+    "capacity": 500,
+    "occupancy": 60,
+    "lat": 19.0235,
+    "lon": 73.0805,
+    "address": "Swapnapurti Housing Complex, Sector 36, Kharghar 410210",
+    "accessibility": "Elevated community hall within housing complex for low-lying sector residents",
+    "groundFloorAccess": true,
+    "facilities": [
+      "Temporary Beds",
+      "Doctor on Call",
+      "Water Filters",
+      "Battery Backup"
+    ],
+    "safetyRating": "Elevated Community Facility",
+    "phone": "+91 22 2774 6100"
+  }
+]

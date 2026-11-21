@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>BaadhRaksha — Kharghar Flood Monitoring & Response</title>
+  <meta name="description" content="Simple, clean, emergency flood response platform for Kharghar, Navi Mumbai. Focuses on local sectors and flood risk grid awareness.">
+  <meta name="theme-color" content="#0284c7">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg">
+  <link rel="stylesheet" href="./vendor/leaflet.css">
+  <link rel="stylesheet" href="./css/app.css">
+  <!-- Leaflet Vendor -->
+  <script src="./vendor/leaflet.js"></script>
+</head>
+<body>
+
+  <!-- Clean, Uncluttered Top Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand-box">
+        <img src="./icons/icon.svg" alt="BaadhRaksha Logo" class="brand-logo">
+        <div>
+          <h1 class="brand-title">BaadhRaksha</h1>
+          <span class="brand-subtitle">Kharghar, Navi Mumbai</span>
+        </div>
+      </div>
+
+      <div class="header-right-actions">
+        <!-- Compact Demo Mode Trigger -->
+        <button class="btn btn-sm btn-outline-primary" id="btn-header-demo" title="Presenter Simulation Scenarios">
+          DEMO MODE
+        </button>
+
+        <!-- Network / Offline Indicator -->
+        <span class="network-pill online" id="header-network-pill" title="Toggle Online/Offline Simulation">
+          ● ONLINE
+        </span>
+
+        <!-- Language Selector -->
+        <button class="btn btn-sm btn-lang" id="btn-lang-toggle" title="Switch Language">
+          हिन्दी
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Application Root -->
+  <div id="app-root"></div>
+
+  <!-- Cache invalidator for active service worker -->
+  <script>
+    if ('caches' in window) {
+      caches.keys().then(function(names) {
+        for (var name of names) {
+          if (name !== 'baadhraksha-kharghar-v7.0.0') {
+            caches.delete(name);
+          }
+        }
+      });
+    }
+  </script>
+
+  <!-- Main Application Script -->
+  <script type="module" src="./src/main.js?v=7.0.0"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "baadhraksha-bihar-flood-response",
+  "version": "3.0.0",
+  "description": "BaadhRaksha - 48-Hour Flood Early Warning & Emergency Intelligence Platform (Bihar, India)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "keywords": ["pwa", "bihar", "kosi-river", "flood-early-warning", "disaster-management", "offline-first", "48-hour-forecast"],
+  "author": "BaadhRaksha Team",
+  "license": "MIT"
+}
