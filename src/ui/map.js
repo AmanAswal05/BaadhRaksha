@@ -144,9 +144,13 @@ export function initOrUpdateMap(container) {
       attributionControl: false
     });
 
-    tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19
-    }).addTo(leafletMap);
+    tileLayer = L.tileLayer(
+      'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+      {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }
+    ).addTo(leafletMap);
 
     drainageLayerGroup = L.layerGroup().addTo(leafletMap);
     gridLayerGroup = L.layerGroup().addTo(leafletMap);
